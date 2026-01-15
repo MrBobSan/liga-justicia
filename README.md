@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 este mensaje se ha actualizado desde GitHub!!!
+
+### Actualizado desde VSc para el Repo de GitHub
+este mensaje se ha actualizado desde VSc!!!
